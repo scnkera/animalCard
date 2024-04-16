@@ -1,7 +1,3 @@
-body{
-    justify-content: center;   
-}
-
 div{
     Padding: 20px;
 }
@@ -21,12 +17,10 @@ p{
     font: 50px bold serif;
 }
 
-
 #imageContainer{
     display: flex;
     height: 35%;
 }
-
 
 .animalImage {
     width: 100%;
