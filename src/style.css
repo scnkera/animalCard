@@ -1,0 +1,46 @@
+body{
+    justify-content: center;   
+    border: 10px solid red;
+}
+
+div{
+    border: 5px solid green;
+    Padding: 20px;
+}
+
+#playingCard {
+    width: 30vw;
+    height: 75vh;
+}
+
+h1{
+    font: 100px bold serif;
+}
+
+
+#imageContainer{
+    display: flex;
+    height: 35%;
+    /* border: 2px solid red; */
+}
+
+
+.animalImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    /* border: 5px solid blue; */
+}
+
+#description {
+    border: 5px solid grey;
+    margin-top: 25px;
+}
+
+span{
+    font-weight: bold;
+}
+
+p{
+    font: 50px serif;
+}
